@@ -1,7 +1,7 @@
 # Data Structures and Algorithms - The Ultimate Guide
 
-[![GitHub stars](https://img.shields.io/github/stars/harshpreet931/The-Ultimate-DSA-Guide.svg?style=social&label=Star)](https://github.com/harshpreet931/The-Ultimate-DSA-Guide)
-[![GitHub forks](https://img.shields.io/github/forks/harshpreet931/The-Ultimate-DSA-Guide.svg?style=social&label=Fork)](https://github.com/harshpreet931/The-Ultimate-DSA-Guide)
+[![GitHub stars](https://img.shields.io/github/stars/harshpreet931/The-Ultimate-DSA-Prep.svg?style=social&label=Star)](https://github.com/harshpreet931/The-Ultimate-DSA-Prep)
+[![GitHub forks](https://img.shields.io/github/forks/harshpreet931/The-Ultimate-DSA-Prep.svg?style=social&label=Fork)](https://github.com/harshpreet931/The-Ultimate-DSA-Prep)
 
 Welcome to the ultimate guide for Data Structures and Algorithms! This repository aims to be a comprehensive resource for learning, practicing, and mastering DSA concepts. Our goal is to provide clear explanations, efficient code implementations (in various languages), and a supportive community.
 

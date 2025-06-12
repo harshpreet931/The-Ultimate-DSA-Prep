@@ -18,7 +18,7 @@ There are many ways to contribute:
 ## Getting Started
 
 1.  **Fork the Repository:** Click the "Fork" button at the top right of the main repository page.
-2.  **Clone Your Fork:** `git clone https://github.com/harshpreet931/The-Ultimate-DSA-Guide.git`
+2.  **Clone Your Fork:** `git clone https://github.com/harshpreet931/The-Ultimate-DSA-Prep.git`
 3.  **Create a Branch:** `git checkout -b feature/your-amazing-feature` or `fix/bug-fix-description`
 4.  **Make Your Changes:** Implement your feature or fix the bug.
 5.  **Commit Your Changes:** `git commit -m "Add: Brief description of your contribution"` or `Fix: Description of bug fixed`. (See our [Commit Message Guidelines](#commit-message-guidelines)).
